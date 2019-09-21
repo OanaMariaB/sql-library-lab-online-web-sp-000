@@ -21,4 +21,4 @@ INSERT INTO subgenres (name) VALUES ("alternate world");
 INSERT INTO subgenres (name) VALUES ("medieval");
 
 INSERT INTO authors (name) VALUES ("J. R. R. Tolkien");
-INSERT INTO authors (name) VALUES ();
+INSERT INTO authors (name) VALUES ("George R. MArtin");
