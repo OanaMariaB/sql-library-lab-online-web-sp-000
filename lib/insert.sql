@@ -14,5 +14,5 @@ INSERT INTO characters (name, species, motto, author_id) VALUES ("Arya Stark", "
 INSERT INTO characters (name, species, motto, author_id) VALUES ("Sansa Stark", "human", "There is no honor in trciks", 2);
 INSERT INTO characters (name, species, motto, author_id) VALUES ("Gollum", "hobbit", "My precious", 1);
 INSERT INTO characters (name, species, motto, author_id) VALUES ("Frodo", "hobbit", "The ring is mine", 1);
-INSERT INTO characters (name, species, motto, author_id) VALUES ("Arwen", "eld", "It is mine to give to whom I will, like my heart");
-INSERT INTO characters (name, species, motto, author_id) VALUES ();
+INSERT INTO characters (name, species, motto, author_id) VALUES ("Arwen", "eld", "It is mine to give to whom I will, like my heart", 1);
+INSERT INTO characters (name, species, motto, author_id) VALUES ("Gandalf", "wizard", "You shall not pass", 1);
