@@ -8,4 +8,4 @@ INSERT INTO books (title, year, series_id) VALUES("A clash of kings", 2000, 2);
 INSERT INTO books (title, year, series_id) VALUES("A storm of swords", 2002, 2);
 INSERT INTO books (title, year, series_id) VALUES("A dance with a dragon", 2008, 2);
 
-INSERT INTO CHARACTERS
+INSERT INTO characters (name, species, motto, author_id) VALUES
