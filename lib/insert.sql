@@ -19,3 +19,6 @@ INSERT INTO characters (name, species, motto, author_id) VALUES ("Gandalf", "wiz
 
 INSERT INTO subgenres (name) VALUES ("alternate world");
 INSERT INTO subgenres (name) VALUES ("medieval");
+
+INSERT INTO authors (name) VALUES ("J. R. R. Tolkien");
+INSERT INTO authors (name) VALUES ();
