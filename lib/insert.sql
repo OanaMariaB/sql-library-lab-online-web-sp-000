@@ -16,3 +16,6 @@ INSERT INTO characters (name, species, motto, author_id) VALUES ("Gollum", "hobb
 INSERT INTO characters (name, species, motto, author_id) VALUES ("Frodo", "hobbit", "The ring is mine", 1);
 INSERT INTO characters (name, species, motto, author_id) VALUES ("Arwen", "eld", "It is mine to give to whom I will, like my heart", 1);
 INSERT INTO characters (name, species, motto, author_id) VALUES ("Gandalf", "wizard", "You shall not pass", 1);
+
+INSERT INTO subgenres (name) VALUES ("alternate world");
+INSERT INTO subgenres (name) VALUES ("medieval");
