@@ -10,9 +10,9 @@ INSERT INTO books (title, year, series_id) VALUES("A dance with a dragon", 2008,
 
 INSERT INTO characters (name, species, motto, author_id) VALUES ("Daeneryes", "dragon", "Queen of Dragons", 2);
 INSERT INTO characters (name, species, motto, author_id) VALUES ("Jon Snow", "human", "Winter is coming", 2);
-INSERT INTO characters (name, species, motto, author_id) VALUES ("");
-INSERT INTO characters (name, species, motto, author_id) VALUES ();
-INSERT INTO characters (name, species, motto, author_id) VALUES ();
-INSERT INTO characters (name, species, motto, author_id) VALUES ();
-INSERT INTO characters (name, species, motto, author_id) VALUES ();
+INSERT INTO characters (name, species, motto, author_id) VALUES ("Arya Stark", "wolf", "I am a wold and will not be afraid", 2);
+INSERT INTO characters (name, species, motto, author_id) VALUES ("Sansa Stark", "human", "There is no honor in trciks", 2);
+INSERT INTO characters (name, species, motto, author_id) VALUES ("Gollum", "hobbit", "My precious", 1);
+INSERT INTO characters (name, species, motto, author_id) VALUES ("Frodo", "hobbit", "The ring is mine", 1);
+INSERT INTO characters (name, species, motto, author_id) VALUES ("Arwen", "eld", "It is mine to give to whom I will, like my heart");
 INSERT INTO characters (name, species, motto, author_id) VALUES ();
