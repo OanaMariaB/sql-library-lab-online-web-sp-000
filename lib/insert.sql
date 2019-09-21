@@ -22,3 +22,20 @@ INSERT INTO subgenres (name) VALUES ("medieval");
 
 INSERT INTO authors (name) VALUES ("J. R. R. Tolkien");
 INSERT INTO authors (name) VALUES ("George R. Martin");
+
+INSERT INTO character_books (book_id, character_id) VALUES();
+INSERT INTO character_books (book_id, character_id) VALUES();
+INSERT INTO character_books (book_id, character_id) VALUES();
+INSERT INTO character_books (book_id, character_id) VALUES();
+INSERT INTO character_books (book_id, character_id) VALUES();
+INSERT INTO character_books (book_id, character_id) VALUES();
+INSERT INTO character_books (book_id, character_id) VALUES();
+INSERT INTO character_books (book_id, character_id) VALUES();
+INSERT INTO character_books (book_id, character_id) VALUES();
+INSERT INTO character_books (book_id, character_id) VALUES();
+INSERT INTO character_books (book_id, character_id) VALUES();
+INSERT INTO character_books (book_id, character_id) VALUES();
+INSERT INTO character_books (book_id, character_id) VALUES();
+INSERT INTO character_books (book_id, character_id) VALUES();
+INSERT INTO character_books (book_id, character_id) VALUES();
+INSERT INTO character_books (book_id, character_id) VALUES();
